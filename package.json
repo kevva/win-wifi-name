@@ -1,0 +1,30 @@
+{
+  "name": "win-wifi-name",
+  "version": "1.0.0",
+  "description": "Get current wifi name on Windows",
+  "license": "MIT",
+  "repository": "kevva/win-wifi-name",
+  "author": {
+    "name": "Kevin Martensson",
+    "email": "kevinmartensson@gmail.com",
+    "url": "github.com/kevva"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "name",
+    "network",
+    "wifi",
+    "windows"
+  ],
+  "devDependencies": {
+    "ava": "^0.0.4"
+  }
+}
