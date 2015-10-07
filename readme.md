@@ -2,24 +2,7 @@
 
 > Get current wifi name on Windows
 
-
-## Install
-
-```
-$ npm install --save win-wifi-name
-```
-
-
-## Usage
-
-```js
-var winWifiName = require('wifi-name');
-
-winWifiName(function (err, name) {
-	console.log(name);
-	//=> 'wu-tang lan'
-});
-```
+**Deprecated in favor of [wifi-name](https://github.com/kevva/wifi-name).**
 
 
 ## License
